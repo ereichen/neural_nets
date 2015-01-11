@@ -1,5 +1,5 @@
 --------------------------------------------------------
-Recurrent Neural Network library for C++
+Recurrent Neural Network library for C++ 
 --------------------------------------------------------
 Version:               1.0.0.0
 Author:                Elias Reichensdoerfer
